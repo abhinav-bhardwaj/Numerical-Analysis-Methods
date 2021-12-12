@@ -4,3 +4,4 @@
 - Bisection Method for Algebraic Equations
 - Bisection Method for Transcendental Equations
 - Fitting of Exponential Function on given set of values
+- Secant Method for Algebraic Equations
