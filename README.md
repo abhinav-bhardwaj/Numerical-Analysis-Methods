@@ -7,4 +7,5 @@
 - Fitting of Exponential Function on given set of values
 - Newton Backward Interpolation
 - Newton Forward Interpolation
+- Newton-Raphson Method for Algebraic Equations
 - Secant Method for Algebraic Equations
