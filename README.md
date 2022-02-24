@@ -9,4 +9,5 @@
 - Newton Backward Interpolation
 - Newton Forward Interpolation
 - Newton-Raphson Method for Algebraic Equations
+- Numerical Integration using Trapezoidal Rule
 - Secant Method for Algebraic Equations
